@@ -1,0 +1,101 @@
+body {
+	background-color: rgb(0, 172, 237);
+}
+
+nav {
+	text-align: left;
+}
+
+a:link {
+	color: darkblue;
+}
+
+a:active {
+	color: red;
+}
+
+a:hover {
+	color: green;
+}
+
+a:visited {
+	color: purple;
+}
+
+h1 {
+	text-align: left;
+	font: "Gothic";
+	color: darkorange;
+	font-style: italic;
+	background-color: darkgreen;
+}
+
+h2 {
+	text-align: left;
+	color: black;
+	font: "Gothic";
+}
+
+article {
+	color: darkgreen;
+	font: "Gothic";
+	font-style: bold;
+}
+
+p {
+	font-size: 20px;
+}
+
+figure {
+	display: table;
+	color: black;
+}
+
+figcaption {
+	display: table-caption;
+	font-style: bold;
+	font-size: 18px;
+}
+
+img {
+	width: 50%;
+}
+
+ol {
+	list-style-type: lower-roman;
+	color: black;
+	font-style: italic;
+}
+
+.viddy {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table {
+	border: 1px solid darkgreen;
+	padding: 12px;
+	box-shadow: 5px 10px darkorange;
+}
+
+table, th {
+	font-style: bold;
+	color: black;
+	font-size: 18px;
+}
+
+table, td {
+	color: white;
+	font-size: 16px;
+}
+
+footer {
+	font: "Gothic";
+	font-size: 15px;
+	font-style: italic;
+	text-align: center;
+	padding-top: 15px;
+	color: darkorange;
+	background-color: darkgreen;
+}

@@ -1,0 +1,3 @@
+This was my first project in my Web Systems class. I decided to play around with a little bit of styling and coloration. looneytunesstyle.css is not something I would ever use on a professional website, due to the use of red and yellow as primary and secondary colors, but, as a childhood fan of Looney Tunes, I couldn't resist giving a nod to the old logo.
+
+This site is not web hosted. In order to view it, you'll need to download the entire repository and keep it all in the same folder to view it locally.
